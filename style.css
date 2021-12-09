@@ -1,0 +1,27 @@
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    text-align: center;
+  }
+  
+  #js,
+  #FrontEnd,
+  #Java {
+    background-color: tomato;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 20%;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  
+  #bookoutput {
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+  }
